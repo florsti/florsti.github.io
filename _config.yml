@@ -2,7 +2,7 @@
 title:               Florsti
 tagline:             'A Jekyll theme'
 description:         'A nice website for me'
-url:                 https://portfolio.rolfs-design.nl
+url:                 https://florsti.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
