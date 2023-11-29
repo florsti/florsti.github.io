@@ -2,7 +2,7 @@
 title:               Florsti
 tagline:             'A Jekyll theme'
 description:         'A nice website for me'
-url:                 https://florsti.github.io
+url:                 https://blog.rolfs-design.nl/
 baseurl:             ''
 paginate:            5
 permalink:           pretty
@@ -10,7 +10,7 @@ permalink:           pretty
 # About/contact
 author:
   name:              Rolfs Design
-  url:               https://twitter.com/florsti
+  url:               https://twitter.com/RolfVR
   email:             rolf.vr@gmail.com
 
 # Gems
